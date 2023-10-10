@@ -1,0 +1,237 @@
+.log{
+    width: 300px;
+    padding-top: 10px;
+}
+.ilafe{
+    height: 200px;
+    margin-left: 10px;
+    border-radius: 50%;
+    width: 230px;
+}
+.div{
+    margin-top: -225px;
+}
+.h1{
+    margin-left: 530px;
+    font-size: 70px;
+    margin-bottom: 80px;
+}
+.h3{
+    margin-left: 390px;
+    margin-top: -110px ;
+    text-decoration: underline;
+}
+.cfe{
+    height: 200px;
+    margin-left: 1120px;
+    border-radius: 50%;
+    margin-top: -210px;
+}
+body{
+    background-color: azure;
+}
+.hh4{
+    margin-left: 400px;
+    margin-top: -10px;
+}
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 16px 60px;
+    text-decoration: none;
+    font-size: 17px;
+    transition: 0.5s;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: azure;
+    color: black;
+  }
+  
+  /* Add an active class to highlight the current page */
+  .topnav a.active {
+    background-color: lightblue;
+    color: #000;
+  }
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  .topnav .icon {
+    display: none;
+  }
+.img{
+    width: 1333px;
+    height: 500px;
+}
+.p{
+    display: flex;
+}
+.divo{
+    margin-top: 0px;
+    margin-left: 100px;
+}
+.divi{
+    margin-left: 50px;
+}
+.btn{
+    height: 100px;
+    width: 140px;
+    padding: 0.4em 2em 0.4em 2em;
+    border: solid 1px #fff;
+    background: lightseagreen;
+    background-color: lightseagreen;
+    box-shadow: 0 0 0 1px gainsboro;
+    font-size: 1.2em;
+    font-family: Ubuntu, Arial, helvetica, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+    transition: 0.7s;
+    text-decoration: none;
+}
+.btn1{
+    height: 100px;
+    width: 140px;
+    padding: 0.4em 2em 0.4em 2em;
+    border: solid 1px lightslategray;
+    background: lightseagreen;
+    background-color: lightgray;
+    box-shadow: 0 0 0 1px gainsboro;
+    font-size: 1.2em;
+    font-family: Ubuntu, Arial, helvetica, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: #000;
+    transition: 0.7s;
+    text-decoration: none;
+}
+.btn1:hover{
+    color: #fff;
+    background-color: #007bff;
+}
+.btn:hover{
+    color: #000;
+    background-color: aquamarine;
+}
+.divt{
+    border: solid 1px lightgray ;
+}
+.don{
+    display: flex;
+}
+.valuation{
+    margin-left: 30px;
+    
+}
+.val{
+    border: solid 2px lightblue ;
+    width: 200px;
+    height: 120px;
+    margin-left: 30px;
+}
+.lab{
+    color: #007bff;
+    margin-left: 70px;
+    text-decoration: underline;
+    cursor: text;
+}
+.labo{
+    margin-left: 90px;
+}
+.labi{
+    margin-left: 40px;
+    color: #007bff;
+    text-decoration: underline;
+    cursor: text;
+}
+.doon{
+    display: flex;
+}
+.labu{
+    color: #007bff;
+    margin-left: 50px;
+    text-decoration: underline;
+    cursor: text;
+}
+.clan{
+    margin-left: 680px;
+    margin-top: -342px;
+}
+.option{
+    color: #007bff;
+    margin-left: 60px;
+    text-decoration: underline;
+    cursor: text;
+}
+.opt{
+    margin-left: 100px;
+    margin-top: -342px;
+}
+.para{
+    margin-left: 30px;
+}
+footer{
+    text-align: center;
+    font-size: large;
+}
+.footer{
+    transition: 0.2s;
+    
+}
+footer:hover{
+    color: #007bff;
+    cursor: pointer;
+}
+.mail{
+    width: 60px;
+    border-radius: 50%;
+    border: solid 2px black;
+}
+.linkedin{
+    margin-left: 80px;
+    width: 70px;
+    margin-top: -170px;
+    margin-bottom: 32px;
+    border-radius: 50%;
+}
+.insta{
+    width: 60px;
+    margin-left: 170px;
+    margin-top: -190px;
+    margin-bottom: 70px;
+    border-radius: 50%;
+    border: solid 2px black;
+}
+.face{
+    width: 60px;
+    margin-left: 260px;
+    margin-top: -190px;
+    margin-bottom: 105px;
+    border-radius: 50%;
+    border: solid 2px black;
+}
+.divg{
+    display: flex;
+}
+.words{
+    margin-left: 70px;
+}
+.d{
+    color: #007bff;
+}
+.j{
+    margin-left: 150px;
+    width: 550px;
+    border-radius: 10px;
+}
+.c{
+    border: solid 1px lightgray;
+}
